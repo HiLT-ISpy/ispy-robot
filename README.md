@@ -1,6 +1,6 @@
 #ispy_robot
 
-This is a collection of modules for NAO robots that are required for the iSpy game in the HiLT lab. More info: https://github.com/iamadamhair/ispy_python
+This is a collection of modules for NAO robots that are required for the iSpy game in the HiLT lab. More info: https://github.com/hilt-ispy/ispy_python
 
 These files are intended to reside in `~/modules/`
 
