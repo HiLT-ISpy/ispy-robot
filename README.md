@@ -1,4 +1,4 @@
-#ispy_robot
+#ispy-robot
 
 This is a collection of modules for NAO robots that are required for the iSpy game in the HiLT lab. More info: https://github.com/hilt-ispy/ispy_python
 
